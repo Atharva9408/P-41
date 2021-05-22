@@ -24,7 +24,7 @@ class Form{
         this.button.position(790,480);
         this.button.style('width', '100px');
         this.button.style('height', '30px');
-        this.button.style('background', 'lightpink');
+        this.button.style('background', 'rgb(255,69,0)');
         this.reset.position(1190, 120);
         this.reset.style('width', '100px');
         this.reset.style('height', '30px');
